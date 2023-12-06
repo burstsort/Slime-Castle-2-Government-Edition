@@ -3,7 +3,7 @@ version 1.0
 
 ## Download link:
 
-https://gitlab.com/Dood/SlimeCastle2GovernmentEdition/repository/archive.zip
+https://gitlab.com/StephanieCheng/SlimeCastle2GovernmentEdition/-/archive/master/SlimeCastle2GovernmentEdition-master.zip
 
 ## Demo video:
 [![video](https://img.youtube.com/vi/-iJRaCxH-SA/0.jpg)](https://www.youtube.com/watch?v=-iJRaCxH-SA)
